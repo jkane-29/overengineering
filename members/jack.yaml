@@ -3,7 +3,7 @@ url: https://jkane-29.github.io
 colors:
   border: 'transparent'
   text: '#374151'
-  links: '#2563eb'
+  links: '#059669'
   on_links: '#ffffff'
 stylesheets:
   - https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap
